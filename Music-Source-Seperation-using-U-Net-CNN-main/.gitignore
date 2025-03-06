@@ -1,0 +1,17 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+Dataset
+Dataset2
+.ipynb_checkpoints/
+U-Net CNN/data-science-bowl-2018
+*.keras
+model
